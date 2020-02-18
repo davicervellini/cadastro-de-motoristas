@@ -4,4 +4,4 @@
  Caso a versão que você instalou do PHP não venha com o MySQL, Instale a versão mais recente;
  Dentro da pasta do projeto existe uma pasta chamada de DP lá dentro está um arquivo SQL que deve ser executado para criar o banco de dados;
  Após a instalação do banco de dados inicie o servidor Apache e o MySQL;
- Agora é só acessar o localhost
+ Agora é só acessar o localhost.
