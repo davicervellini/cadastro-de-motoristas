@@ -1,0 +1,11 @@
+<sistema>
+	
+	<conexao nomeConexao="motoristas" type="mysql">
+        <hostname>127.0.0.1</hostname>
+        <username>root</username>
+        <password></password>
+        <database>cadastro_de_motoristas</database>
+        <port>3306</port>
+    </conexao>
+
+</sistema>
